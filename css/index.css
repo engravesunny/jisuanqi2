@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.box {
+  margin: 50px auto;
+  width: 625px;
+  height: 543px;
+  background-color: #f3f3f3;
+}
+.box .numBox {
+  padding-right: 20px;
+  width: 605px;
+  height: 136px;
+  background-color: #f3f3f3;
+  text-align: right;
+  line-height: 136px;
+  font-size: 50px;
+  border: 0;
+  outline: none;
+}
+.box .clickBox {
+  width: 625px;
+  background-color: skyblue;
+}
+.box .clickBox input {
+  float: left;
+  margin: 3px;
+  width: 150px;
+  height: 62px;
+  text-align: center;
+  line-height: 62px;
+  font-size: 30px;
+  background-color: #fff;
+}
+.box .clickBox input:hover{
+  opacity: .7;
+}

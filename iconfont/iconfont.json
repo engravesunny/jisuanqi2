@@ -1,0 +1,16 @@
+{
+  "id": "3604758",
+  "name": "111",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2967038",
+      "name": "操作-退格",
+      "font_class": "caozuo-tuige",
+      "unicode": "e714",
+      "unicode_decimal": 59156
+    }
+  ]
+}
